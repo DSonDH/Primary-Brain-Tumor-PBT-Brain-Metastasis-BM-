@@ -8,26 +8,4 @@
 4. Using various classifier, we could discriminate PBT and BM roughly (accuracy 85%)
 
 
-\'
-print()
-'\
 
-
-   test code
-
-
-''' 
-int val = 10;
-printf(%s,"Hello, World!");
-'''
-
-\* italic \*
-\*\*  Bold \*\*
-
-asdf
-\_\_\_
-
-asdf
-\*\*\*
-
----
