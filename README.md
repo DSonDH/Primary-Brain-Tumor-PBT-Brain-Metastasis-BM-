@@ -5,4 +5,4 @@
 
 3. We extracted feature using the deep learning segmentation network, U-net
 
-4. Using various classifier, we could discriminate PBT and BM roughly
+4. Using various classifier, we could discriminate PBT and BM roughly (accuracy 85%)
